@@ -5,8 +5,8 @@ const xCuzSkillz = {
    Age : "16",
    location : "Bahrain",
    MySkills : {
-      Librarys : ["Bootstrap","React.JS"]
+      Librarys : ["Bootstrap" , "React.JS"]
   };
-  Languages : ["HTML","CSS","JavaScripts"]
+  Languages : ["HTML" , "CSS" , "JavaScripts"]
 };
 ```
