@@ -1,4 +1,4 @@
-const xCuzSkillz {
+const xCuzSkillz = {
  name : "Ali",
  Age : "16",
  location : "Bahrain",
