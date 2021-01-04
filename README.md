@@ -1,3 +1,4 @@
+```js
 const xCuzSkillz = {
  name : "Ali",
  Age : "16",
@@ -7,3 +8,4 @@ const xCuzSkillz = {
   };
   Languages : ["HTML","CSS",JavaScripts"]
 };
+```
