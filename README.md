@@ -7,6 +7,6 @@ const xCuzSkillz = {
  MySkills : {
   Librarys : ["Bootstrap","React.JS"]
   };
-  Languages : ["HTML","CSS",JavaScripts"]
+  Languages : ["HTML","CSS","JavaScripts"]
 };
 ```
