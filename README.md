@@ -1,11 +1,11 @@
 ![xCuzSkillz's github stats](https://github-readme-stats.vercel.app/api?username=xCuzSkillz&show_icons=true&theme=tokyonight)
 ```js
 const xCuzSkillz = {
- name : "Ali",
- Age : "16",
- location : "Bahrain",
- MySkills : {
-  Librarys : ["Bootstrap","React.JS"]
+   name : "Ali",
+   Age : "16",
+   location : "Bahrain",
+   MySkills : {
+      Librarys : ["Bootstrap","React.JS"]
   };
   Languages : ["HTML","CSS","JavaScripts"]
 };
