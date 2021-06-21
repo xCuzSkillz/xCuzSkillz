@@ -8,6 +8,6 @@ const xCuzSkillz = {
       Librarys : ["React.JS", "Electron.js", "ScrollReveal.js"],
       DesignLibrarys: ["Bootstrap", "SASS", "Bulma"]
   };
-  Languages : ["HTML" , "CSS" , "JavaScript"]
+  Languages : ["HTML" , "CSS" , "JavaScript", "C#"]
 };
 ```
