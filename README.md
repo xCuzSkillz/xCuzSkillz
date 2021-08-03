@@ -12,4 +12,5 @@ const xCuzSkillz = {
 };
 ```
 
-https://discord.c99.nl/widget/theme-1/323930938125844480.png
+### Discord Profile ✨
+![Discord](https://discord.c99.nl/widget/theme-1/323930938125844480.png)
