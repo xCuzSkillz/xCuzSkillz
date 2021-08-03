@@ -11,3 +11,5 @@ const xCuzSkillz = {
   Languages : ["HTML" , "CSS" , "JavaScript", "C#"]
 };
 ```
+
+https://discord.c99.nl/widget/theme-1/323930938125844480.png
