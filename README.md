@@ -6,7 +6,7 @@ const xCuzSkillz = {
    location : "Bahrain",
    MySkills : {
       Librarys : ["React.JS", "Electron.js", "ScrollReveal.js"],
-      DesignLibrarys: ["Bootstrap", "SASS", "Bulma"]
+      DesignLibrarys: ["Bootstrap", "SASS", "Bulma", "MaterialUI", "Tailwind"]
   };
   Languages : ["HTML" , "CSS" , "JavaScript", "C#", "Java"]
 };
