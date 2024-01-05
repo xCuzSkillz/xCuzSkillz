@@ -5,7 +5,7 @@ const xCuzSkillz = {
    Age : "18",
    location : "Bahrain",
    MySkills : {
-      Librarys : ["React.JS", "Electron.js", "ScrollReveal.js"],
+      Librarys : ["React.JS", Next.js, "Electron.js", "ScrollReveal.js"],
       DesignLibrarys: ["Bootstrap", "SASS", "Bulma", "MaterialUI", "Tailwind"]
   };
   Languages : ["HTML" , "CSS" , "JavaScript", "C#", "Java"]
