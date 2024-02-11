@@ -2,7 +2,7 @@
 ```js
 const xCuzSkillz = {
    name : "Ali",
-   Age : "18",
+   Age : "19",
    location : "Bahrain",
    MySkills : {
       Librarys : ["React.JS", Next.js, "Electron.js", "ScrollReveal.js"],
